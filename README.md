@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-09-API-server/pull/3)
-* [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-09-API-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-09-API-server))
+* [travis]([![Build Status](https://travis-ci.com/jeremy-401-advanced-javascript/Lab09.svg?branch=master)](https://travis-ci.com/jeremy-401-advanced-javascript/Lab09))
 
 * [heroku](https://dashboard.heroku.com/apps/lab009)
 
