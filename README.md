@@ -2,7 +2,7 @@
 
 ## API Server
 
-### Author: Joseph Hangarter, Pratiibh Bassi, Anthony Triplett, Jeremy Lee
+### Author: Joseph Hangarter, Pratiibh Bassi, Anthony Triplett, Jeremy Lee.
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-09-API-server/pull/3)
